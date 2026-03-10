@@ -1,4 +1,4 @@
-<img src="./zdouc_logo_v1.svg" style="max-width: 50vw; min-width: 50vw;"/>
+<img src="./zdouc_logo_v1.svg" style="width: 25vw"/>
 
 
 **Welcome to the Zdouc Group GitHub Organization!**

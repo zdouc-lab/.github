@@ -3,14 +3,14 @@
 
 **Welcome to the Zdouc Group GitHub Organization!**
 
-The Zdouc research lab at the University of Vienna develops and applies algorithms 
-for (meta)genome and metabolome mining of naturally occurring, specialized molecules called 
-natural products. 
+The Zdouc research lab at the University of Vienna investigates naturally occurring, specialized molecules called 
+natural products. These small molecules are widely used in medicine, food science, and agriculture, and are of enormous societal importance.
+Our investigation focuses on microbial natural products, which are especially promising for the development of new antibiotics.
 
-We aim to unravel the chemical language of nature using data science,
-linked open data, and experimental work. By accelerating natural product discovery, we 
-aim to foster the development of effective new drugs, sustainable agrochemicals, 
-and microbiome-friendly food additives. 
+The Zdouc lab aims to unravel the chemical language of nature using data science,
+linked open data, and experimental investigation. By developing new algorithms for genome and metabolome mining, 
+establishing data infrastructure, and discovering new molecules, we aim to foster the development of effective new drugs,
+sustainable agrochemicals, and microbiome-friendly food additives. 
 
 Together with our collaborators, we are creating state-of-the-art computational tools and gold-standard databases, including:
 
